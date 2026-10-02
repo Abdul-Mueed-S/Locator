@@ -1,0 +1,20 @@
+<resources>
+    <color name="blue_primary">#1565C0</color>
+    <color name="blue_primary_dark">#0D47A1</color>
+    <color name="blue_accent">#42A5F5</color>
+
+    <color name="green_primary">#2E7D32</color>
+    <color name="green_primary_dark">#1B5E20</color>
+    <color name="green_accent">#66BB6A</color>
+
+    <color name="dark_bg">#121212</color>
+    <color name="dark_surface">#1E1E1E</color>
+    <color name="light_bg">#FAFAFA</color>
+    <color name="light_surface">#FFFFFF</color>
+
+    <color name="status_green">#2E7D32</color>
+    <color name="status_green_bg">#E8F5E9</color>
+    <color name="text_muted">#757575</color>
+    <color name="timeline_line">#90CAF9</color>
+    <color name="timeline_line_done">#616161</color>
+</resources>

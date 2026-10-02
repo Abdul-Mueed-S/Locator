@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Locator</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_traveler">Traveler</string>
+    <string name="nav_well_wishers">Well Wisher(s)</string>
+    <string name="nav_well_wishing">Well Wishing</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="show_qr">Show QR Code</string>
+    <string name="share_qr">Share</string>
+    <string name="close">Close</string>
+
+    <string name="make_update">Make Update</string>
+    <string name="add_description">+ Add description</string>
+    <string name="post">Post</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="add_current_location">Use Current Location</string>
+    <string name="pick_on_map">Pick on Map</string>
+    <string name="my_locations">My Locations</string>
+    <string name="add_manually">Add Manually</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="remove">Remove</string>
+    <string name="rename">Rename</string>
+
+    <string name="choose_route">Choose route</string>
+    <string name="direction_forward">Home → College</string>
+    <string name="direction_reverse">College → Home</string>
+
+    <string name="journey_sharing">Journey sharing</string>
+    <string name="theme">Theme</string>
+    <string name="no_updates_yet">No updates yet</string>
+    <string name="all_well_wishers">All Well-Wishers</string>
+</resources>

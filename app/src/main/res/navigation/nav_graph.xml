@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.evu.locator.ui.home.HomeFragment"
+        android:label="Home" />
+
+    <fragment
+        android:id="@+id/travelerFragment"
+        android:name="com.evu.locator.ui.traveler.TravelerFragment"
+        android:label="Traveler" />
+
+    <fragment
+        android:id="@+id/wellWishersFragment"
+        android:name="com.evu.locator.ui.wellwishers.WellWishersFragment"
+        android:label="Well Wisher(s)" />
+
+    <fragment
+        android:id="@+id/wellWishingFragment"
+        android:name="com.evu.locator.ui.wellwishing.WellWishingFragment"
+        android:label="Well Wishing" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.evu.locator.ui.settings.SettingsFragment"
+        android:label="Settings" />
+
+    <fragment
+        android:id="@+id/updateTimelineFragment"
+        android:name="com.evu.locator.ui.timeline.UpdateTimelineFragment"
+        android:label="Timeline">
+        <argument android:name="uid" app:argType="string" />
+        <argument android:name="name" app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/manageLocationsFragment"
+        android:name="com.evu.locator.ui.locations.ManageLocationsFragment"
+        android:label="Manage Locations" />
+
+</navigation>
